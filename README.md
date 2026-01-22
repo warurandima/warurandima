@@ -34,7 +34,10 @@ Full-Stack Web Development, Mobile App Development, and AI.
 ## 🚀 Top Contributed Repos
 
 ![Top Repos](https://github-contributor-stats.vercel.app/api?username=warurandima&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<<<<<<< HEAD
 
+=======
+>>>>>>> 6e7e89561f64c7b129f2b1b1c64d3284c797cccf
 ---
 ## 🐍 A Snake Eating my Contributions Graph
 

@@ -37,7 +37,7 @@ Full-Stack Web Development, Mobile App Development, and AI.
 ---
 ## 🐍 A Snake Eating my Contributions Graph
 
-![Snake animation](https://github.com/Ywarurandima/warurandima/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/warurandima/warurandima/blob/output/github-contribution-grid-snake-dark.svg)
 
 --- 
 ## 🤝 Connect with Me

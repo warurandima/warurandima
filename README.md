@@ -30,7 +30,7 @@ Full-Stack Web Development, Mobile App Development, and AI.
 ## 📊 GitHub Contributions
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=warurandima&theme=react-dark)
-
+<!--
 ## 🚀 Top Contributed Repos
 
 ![Top Repos](https://github-contributor-stats.vercel.app/api?username=warurandima&limit=5&theme=dark&combine_all_yearly_contributions=true)
@@ -39,7 +39,7 @@ Full-Stack Web Development, Mobile App Development, and AI.
 
 ![Snake animation](https://raw.githubusercontent.com/warurandima/warurandima/output/github-contribution-grid-snake-dark.svg)
 
---- 
+--- -->
 ## 🤝 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
